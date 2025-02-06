@@ -1,0 +1,11 @@
+Q1: 
+
+Pros of using Agile Development :
+
+Flexibility & Adaptability – Agile allows for iterative development, making it easier to adapt to changing requirements.
+Faster Delivery & Feedback – Frequent releases ensure quicker feedback loops, reducing the risk of building something misaligned with user needs.
+
+Cons of using Agile development :
+
+Less Predictability – Because requirements evolve, it’s harder to predict timelines and budgets compared to a structured approach like Waterfall.
+Higher Dependency on Team Collaboration – Agile requires constant communication; without it, progress can slow down or lead to misalignment.
