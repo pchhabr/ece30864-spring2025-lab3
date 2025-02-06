@@ -9,3 +9,15 @@ Cons of using Agile development :
 
 Less Predictability – Because requirements evolve, it’s harder to predict timelines and budgets compared to a structured approach like Waterfall.
 Higher Dependency on Team Collaboration – Agile requires constant communication; without it, progress can slow down or lead to misalignment.
+
+Q2: 
+
+Product Owner:
+Sets direction for the team, handles release management and stakeholder management.
+Balances Business & Technical Needs – Works closely with the development team to ensure feasibility and efficiency.
+Accepts or Rejects Work – Reviews completed work to ensure it meets requirements and adds value.
+
+Scrum Master:
+All scrum related tasks – JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master
+Promotes Continuous Improvement – Encourages feedback loops and retrospectives to enhance efficiency.
+Coaches & Supports the Team – Helps the team adopt Agile best practices and improve collaboration.
