@@ -21,3 +21,20 @@ Scrum Master:
 All scrum related tasks – JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master
 Promotes Continuous Improvement – Encourages feedback loops and retrospectives to enhance efficiency.
 Coaches & Supports the Team – Helps the team adopt Agile best practices and improve collaboration.
+
+Q3: 
+
+1. Sprint Planning Meeting:
+Determine what to complete in the coming sprint 
+Move stories in sprint scope from backlog to current sprint 
+Determine story points and assign stories to team 
+Start sprint
+
+2. Daily Scrum/Standup Meeting:
+Short meeting that happens every day of the sprint 
+Team members discuss work completed, work plan for the day and any blockers
+
+3. Sprint Retrospective Meeting:
+Occurs at the end of the sprint 
+Discuss work complete and move incomplete work to backlog 
+Close sprint
