@@ -38,3 +38,17 @@ Team members discuss work completed, work plan for the day and any blockers
 Occurs at the end of the sprint 
 Discuss work complete and move incomplete work to backlog 
 Close sprint
+
+Q4:
+
+Epic:
+Captures a large body of work that can be broken down into several smaller stories.
+
+Story:
+A software system requirement that is expressed in a few short sentences.
+
+Task:
+A specific piece of work that contributes to a story/epic: it connects and provides doable chucks that a story requires. 
+
+Bug:
+A defect or issue in the product, and is used to track and fixe errors in the system.
